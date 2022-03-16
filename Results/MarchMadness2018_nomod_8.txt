@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	VirginiaTech	WestVirginia	WichitaState	St.Bonaventure	TexasTech	Arkansas	Purdue	Xavier	Missouri	OhioState	Gonzaga	Houston	Michigan	TexasA&M	NorthCarolina	Kansas	SetonHall	Clemson	Auburn	TexasChristian	MichiganState	RhodeIsland	Duke	Virginia	Creighton	Kentucky	Buffalo	Loyola(IL)	Tennessee	Nevada	Cincinnati	
+SECONDROUND:	Villanova	WestVirginia	TexasTech	Arkansas	Xavier	Gonzaga	Houston	NorthCarolina	Kansas	Clemson	MichiganState	Duke	Virginia	Kentucky	Loyola(IL)	Cincinnati	
+THIRDROUND:	Villanova	TexasTech	Xavier	Houston	Clemson	MichiganState	Virginia	Cincinnati	
+REGIONAL:	Villanova	Xavier	MichiganState	Cincinnati
+FINALS_MATCHUP:	Xavier	Villanova
+WINNER:	Xavier

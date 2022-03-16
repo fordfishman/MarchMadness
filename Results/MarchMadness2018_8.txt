@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	Alabama	WestVirginia	Marshall	Florida	TexasTech	Arkansas	Purdue	Xavier	FloridaState	OhioState	Gonzaga	SanDiegoState	Michigan	TexasA&M	NorthCarolina	Kansas	SetonHall	Clemson	Auburn	Syracuse	MichiganState	Oklahoma	Duke	Virginia	Creighton	Kentucky	Arizona	Loyola(IL)	Tennessee	Nevada	Cincinnati	
+SECONDROUND:	Villanova	WestVirginia	TexasTech	Purdue	Xavier	OhioState	Michigan	NorthCarolina	Kansas	Auburn	MichiganState	Duke	Virginia	Arizona	Loyola(IL)	Cincinnati	
+THIRDROUND:	Villanova	Purdue	OhioState	NorthCarolina	Kansas	Duke	Virginia	Cincinnati	
+REGIONAL:	Villanova	NorthCarolina	Duke	Cincinnati
+FINALS_MATCHUP:	NorthCarolina	Duke
+WINNER:	NorthCarolina

@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	VirginiaTech	WestVirginia	WichitaState	Florida	TexasTech	Arkansas	Purdue	Xavier	FloridaState	OhioState	Gonzaga	Houston	Michigan	TexasA&M	NorthCarolina	Kansas	SetonHall	Clemson	CollegeofCharleston	Syracuse	MichiganState	Oklahoma	Duke	Virginia	Creighton	Kentucky	Arizona	Miami(FL)	Tennessee	Texas	Cincinnati	
+SECONDROUND:	Villanova	WichitaState	Florida	Purdue	Xavier	OhioState	Houston	TexasA&M	Kansas	Clemson	MichiganState	Duke	Creighton	Arizona	Tennessee	Cincinnati	
+THIRDROUND:	WichitaState	Florida	OhioState	Houston	Kansas	MichiganState	Creighton	Cincinnati	
+REGIONAL:	WichitaState	OhioState	Kansas	Cincinnati
+FINALS_MATCHUP:	Cincinnati	WichitaState
+WINNER:	WichitaState

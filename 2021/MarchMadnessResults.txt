@@ -1,0 +1,6 @@
+FIRSTROUND:	Michigan	St.Bonaventure	Colorado	FloridaState	BrighamYoung	Texas	Maryland	Alabama	Gonzaga	Oklahoma	Creighton	Virginia	SouthernCalifornia	Kansas	Oregon	Iowa	Illinois	Loyola	Tennessee	OklahomaState	SanDiegoState	WestVirginia	Clemson	Houston	Baylor	NorthCarolina	Villanova	Purdue	TexasTech	Arkansas	VirginiaTech	OralRoberts	
+SECONDROUND:	Michigan	Colorado	BrighamYoung	Maryland	Gonzaga	Creighton	Kansas	Iowa	Illinois	Tennessee	SanDiegoState	Houston	Baylor	Villanova	TexasTech	VirginiaTech	
+THIRDROUND:	Michigan	Maryland	Gonzaga	Iowa	Illinois	Houston	Baylor	VirginiaTech	
+REGIONAL:	Michigan	Iowa	Houston	Baylor
+FINALS_MATCHUP:	Michigan	Baylor
+WINNER:	Baylor

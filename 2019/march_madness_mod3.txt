@@ -1,0 +1,33 @@
+FIRSTROUND:	SECONDROUND:	THIRDROUND:	REGIONAL:	FINALS_MATCHUP:	WINNER:
+Duke	Duke	Duke	Duke	Duke	NorthCarolina
+VirginiaCommonwealth	VirginiaTech	MichiganState	TexasTech	NorthCarolina	
+MississippiState	Maryland	Gonzaga	NorthCarolina		
+VirginiaTech	MichiganState	TexasTech	Tennessee		
+Maryland	Gonzaga	NorthCarolina			
+Yale	FloridaState	IowaState			
+Louisville	TexasTech	Virginia			
+MichiganState	Michigan	Tennessee			
+Gonzaga	NorthCarolina				
+Syracuse	Auburn				
+MurrayState	IowaState				
+FloridaState	Kentucky				
+Buffalo	Virginia				
+TexasTech	Wisconsin				
+Florida	Purdue				
+Michigan	Tennessee				
+NorthCarolina					
+UtahState					
+Auburn					
+Kansas					
+IowaState					
+Houston					
+Wofford					
+Kentucky					
+Virginia					
+Oklahoma					
+Wisconsin					
+KansasState					
+SaintMarys					
+Purdue					
+Cincinnati					
+Tennessee					

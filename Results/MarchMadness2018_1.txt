@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	VirginiaTech	MurrayState	WichitaState	St.Bonaventure	TexasTech	Arkansas	Purdue	Xavier	Missouri	OhioState	Gonzaga	Houston	Michigan	Providence	NorthCarolina	Kansas	SetonHall	Clemson	Auburn	Syracuse	MichiganState	RhodeIsland	Duke	Virginia	KansasState	Kentucky	Arizona	Miami(FL)	Tennessee	Nevada	Cincinnati	
+SECONDROUND:	Villanova	WichitaState	TexasTech	Purdue	Xavier	OhioState	Michigan	NorthCarolina	Kansas	Clemson	MichiganState	Duke	KansasState	Kentucky	Tennessee	Cincinnati	
+THIRDROUND:	Villanova	Purdue	Xavier	NorthCarolina	Kansas	MichiganState	KansasState	Cincinnati	
+REGIONAL:	Villanova	NorthCarolina	Kansas	KansasState
+FINALS_MATCHUP:	NorthCarolina	Kansas
+WINNER:	Kansas

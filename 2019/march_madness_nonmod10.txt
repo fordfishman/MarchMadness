@@ -1,0 +1,6 @@
+FIRSTROUND:	Duke	VirginiaCommonwealth	MississippiState	VirginiaTech	Maryland	LouisianaState	Louisville	MichiganState	Gonzaga	Baylor	Marquette	FloridaState	Buffalo	NorthernKentucky	Nevada	Michigan	NorthCarolina	UtahState	Auburn	Kansas	IowaState	Houston	Wofford	Kentucky	Virginia	Oklahoma	Wisconsin	KansasState	SaintMarys	Purdue	Cincinnati	Tennessee	
+SECONDROUND:	Duke	VirginiaTech	LouisianaState	MichiganState	Gonzaga	FloridaState	Buffalo	Michigan	NorthCarolina	Auburn	Houston	Wofford	Virginia	KansasState	SaintMarys	Tennessee	
+THIRDROUND:	Duke	MichiganState	Gonzaga	Buffalo	NorthCarolina	Houston	Virginia	Tennessee	
+REGIONAL:	Duke	Gonzaga	NorthCarolina	Virginia
+FINALS_MATCHUP:	Gonzaga	Virginia
+WINNER:	Virginia

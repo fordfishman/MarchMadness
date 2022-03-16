@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	VirginiaTech	MurrayState	WichitaState	Florida	TexasTech	Butler	Purdue	Xavier	FloridaState	OhioState	Gonzaga	SanDiegoState	Michigan	Providence	NorthCarolina	Kansas	SetonHall	Clemson	Auburn	Syracuse	MichiganState	RhodeIsland	Duke	Virginia	Creighton	Davidson	Arizona	Miami(FL)	Tennessee	Texas	Cincinnati	
+SECONDROUND:	Villanova	MurrayState	TexasTech	Purdue	Xavier	Gonzaga	Michigan	Providence	Kansas	Clemson	MichiganState	Duke	Virginia	Arizona	Miami(FL)	Cincinnati	
+THIRDROUND:	Villanova	Purdue	Gonzaga	Michigan	Kansas	MichiganState	Virginia	Cincinnati	
+REGIONAL:	Villanova	Michigan	Kansas	Cincinnati
+FINALS_MATCHUP:	Michigan	Villanova
+WINNER:	Villanova

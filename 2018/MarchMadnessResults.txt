@@ -1,0 +1,6 @@
+FIRSTROUND:	Villanova	Wisconsin	Virginia	Florida	SouthernMethodist	Baylor	Marquette	Duke	Gonzaga	Vanderbilt	Princeton	WestVirginia	Xavier	FloridaState	VirginiaCommonwealth	Arizona	Kansas	MichiganState	IowaState	Purdue	Creighton	Oregon	Michigan	Louisville	NorthCarolina	SetonHall	Minnesota	Butler	Cincinnati	UCLA	Dayton	Kentucky	
+SECONDROUND:	Villanova	Virginia	SouthernMethodist	Marquette	Gonzaga	WestVirginia	Xavier	Arizona	MichiganState	Purdue	Creighton	Louisville	NorthCarolina	Butler	Cincinnati	Kentucky	
+THIRDROUND:	Villanova	SouthernMethodist	WestVirginia	Arizona	Purdue	Louisville	Butler	Kentucky	
+REGIONAL:	Villanova	WestVirginia	Purdue	Kentucky
+FINALS_MATCHUP:	WestVirginia	Purdue
+WINNER:	WestVirginia

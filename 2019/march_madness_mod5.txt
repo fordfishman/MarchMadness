@@ -1,0 +1,6 @@
+FIRSTROUND:	Duke	CentralFlorida	MississippiState	VirginiaTech	Belmont	LouisianaState	Minnesota	MichiganState	Gonzaga	Syracuse	Marquette	FloridaState	Buffalo	TexasTech	Florida	Michigan	NorthCarolina	UtahState	Auburn	Kansas	IowaState	Houston	SetonHall	Kentucky	Virginia	Mississippi	Wisconsin	KansasState	Villanova	Purdue	Cincinnati	Tennessee	
+SECONDROUND:	Duke	MississippiState	Belmont	MichiganState	Gonzaga	FloridaState	TexasTech	Florida	NorthCarolina	Auburn	IowaState	Kentucky	Virginia	Wisconsin	Purdue	Tennessee	
+THIRDROUND:	Duke	MichiganState	Gonzaga	TexasTech	NorthCarolina	Kentucky	Virginia	Tennessee	
+REGIONAL:	MichiganState	Gonzaga	NorthCarolina	Virginia
+FINALS_MATCHUP:	Gonzaga	NorthCarolina
+WINNER:	NorthCarolina
