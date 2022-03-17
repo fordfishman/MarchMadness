@@ -1,0 +1,13 @@
+name: bracket-generator
+title: bracket-generator
+username:
+account: fordfishman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5872312
+bundleId: 5694142
+url: https://fordfishman.shinyapps.io/bracket-generator/
+when: 1647495952.19714
+lastSyncTime: 1647495952.19715
+asMultiple: FALSE
+asStatic: FALSE
